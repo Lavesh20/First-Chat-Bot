@@ -18,7 +18,7 @@ const HomePage = () => {
         {/* <h3>
          This is Team Kalyug
         </h3> */}
-        <Link to="/chat">Get Started</Link>
+        <Link to="/chat">Try-ChatBot</Link>
       </div>
       <div className="right">
         <div className="imgContainer">
